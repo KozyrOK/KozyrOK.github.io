@@ -1,7 +1,9 @@
 ﻿body {
-    background: linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left;
+    background: linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
+    background: -o-linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
+    background: -moz-linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
+    background: -webkit-linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
 h1, h2, h3 {
