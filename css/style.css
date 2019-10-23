@@ -1,19 +1,6 @@
 ﻿body {
-    background: linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
-    
+    background: linear-gradient(rgba(38,211,186,1), rgba(15,60,120,1)) no-repeat fixed;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-@media screen and (orientation: portrait) {
-    body {
-        background: linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
-    }
-}
-
-@media screen and (orientation: landscape) {
-    body {
-        background: linear-gradient(346deg, rgba(15,60,120,1) 0%, rgba(38,211,186,1) 100%) no-repeat fixed left top;
-    }
 }
 
 h1, h2, h3 {
