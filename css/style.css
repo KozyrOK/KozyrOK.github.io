@@ -1,7 +1,7 @@
 ﻿body {
     background: linear-gradient(rgba(38,211,186,1), rgba(15,60,120,1)) no-repeat fixed;
     font-family: Arial, Helvetica, sans-serif;
-    background-size: auto;
+    background-size: cover;
 }
 
 h1, h2, h3 {
