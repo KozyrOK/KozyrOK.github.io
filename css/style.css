@@ -1,6 +1,6 @@
 ﻿body {
-    background: linear-gradient(rgb(38,211,186), rgb(15,100,120)) no-repeat fixed top left;
-    font-family: Arial, Helvetica, sans-serif;    
+    background: rgb(77, 153, 179);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2, h3 {
@@ -12,18 +12,36 @@ table, th, td {
     border-collapse: collapse;
 }
 
+table.hide {
+    border-collapse: collapse;
+    border: hidden;
+}
+
+th.hide {
+    border-collapse: collapse;
+    border: hidden;
+}
+
+tr.hide {
+    border-collapse: collapse;
+    border: hidden;
+}
+
+
 th.thick {
         font-weight: bold;
 }
 
-.linkCell {
+th.linkCell {
     font-weight: bold;
     text-align: center;
-    margin-top: 5px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
     cursor: pointer;
 }
 
-.textCell {
+tr.textCell {
     text-align: left;
     margin-top: 5px;
 }
