@@ -1,10 +1,7 @@
-﻿body {
-    background: linear-gradient(rgb(77, 153, 179), rgb(15,100,120));    
-    font-family: Arial, Helvetica, sans-serif;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: left top;
+﻿
+body {
+    background: rgb(80, 160, 180);
+    font-family: Arial, Helvetica, sans-serif;    
 }
 
 h1, h2, h3 {
